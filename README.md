@@ -1,4 +1,4 @@
-# Line Chart & Column Chart Widgets for SAP DI with Predictive Analysis
+# Line Chart & Column Chart Widgets for SAP DI with Predictive Analysis using Simple Statistics Library
 
 ## Project Overview
 
