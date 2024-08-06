@@ -1,4 +1,4 @@
-# Predictive-Analysis-Using-SAP-and-ECharts
+# Line Chart Widget for SAP DI with Predictive Analysis
 
 ## Project Overview
 
