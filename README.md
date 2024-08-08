@@ -82,6 +82,10 @@ Improve performance for larger datasets.
 
 ![image](https://github.com/user-attachments/assets/7fea0c54-a548-49da-94e7-ad48887b1185)
 
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
 
 
 
