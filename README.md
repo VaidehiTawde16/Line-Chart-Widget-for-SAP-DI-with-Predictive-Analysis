@@ -24,6 +24,16 @@ Label Enhancement: Adds year to labels automatically.
 
 Interactive Visuals: Uses ECharts for responsive bar chart rendering.
 
+## Technical Stack
+
+JavaScript: Core logic and interaction handling.
+
+ECharts: Robust charting library for data visualization.
+
+SAP: Integrated as custom widgets within the SAP environment.
+
+Simple-Statistics: Library for performing linear regression and other statistical calculations.
+
 ## Implementation Details
 
 ### Custom Functions
