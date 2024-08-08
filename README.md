@@ -1,4 +1,4 @@
-# Line Chart & Column Chart Widgets for SAP DI with Predictive Analysis
+# Line Chart & Column Chart Widgets for SAP DI with Predictive Analysis using Simple Statistics Library
 
 ## Project Overview
 
@@ -23,6 +23,16 @@ Dynamic Data Binding: Similar integration with SAP data feeds.
 Label Enhancement: Adds year to labels automatically.
 
 Interactive Visuals: Uses ECharts for responsive bar chart rendering.
+
+## Technical Stack
+
+JavaScript: Core logic and interaction handling.
+
+ECharts: Robust charting library for data visualization.
+
+SAP: Integrated as custom widgets within the SAP environment.
+
+Simple-Statistics: Library for performing linear regression and other statistical calculations.
 
 ## Implementation Details
 
@@ -71,6 +81,10 @@ Improve performance for larger datasets.
 ![image](https://github.com/user-attachments/assets/6b8fefd8-47f8-4a02-ae99-4c0d9871e8bb)
 
 ![image](https://github.com/user-attachments/assets/7fea0c54-a548-49da-94e7-ad48887b1185)
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 
 
